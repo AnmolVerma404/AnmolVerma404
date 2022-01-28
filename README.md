@@ -13,6 +13,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg"></code>
 <code><img height="20" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp"></code>
 <code><img height="40" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp"></code>
 <code><img height="40" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp"></code>
