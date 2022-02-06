@@ -35,6 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolVerma404&count_private=true&line_height=40&theme=dark">
 
 </p>
+<p align = "center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=AnmolVerma404&theme=react-dark" align = "center">
+</p>
 
 ---
 
