@@ -6,6 +6,7 @@
  Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 National Finalist || Executive and Technical team member @Codechef VITB Chapter
 
 ## **TechStack:**
+<p>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/html.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/css.webp"></code>
 <code> <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/js.webp" height="40"></code>
@@ -15,15 +16,17 @@
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/cpp.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/git.webp"></code>
+<br>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/github.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/nodejs.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/bootstrap.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/ganache.svg"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/solidity.svg"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/solidity.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/ethersjs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/hardhat.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/truffle.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/web3.png"></code>
+</p>
 
 
 ## **Github Streak:**
