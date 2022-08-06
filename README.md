@@ -6,7 +6,7 @@
  Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 National Finalist || Executive and Technical team member @Codechef VITB Chapter
 
 ## **TechStack:**
-<p>
+<p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/html.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/css.webp"></code>
 <code> <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/js.webp" height="40"></code>
