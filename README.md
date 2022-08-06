@@ -21,7 +21,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/nodejs.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/bootstrap.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/ganache.svg"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/solidity.svg"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/solidity.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/ethersjs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/hardhat.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/truffle.png"></code>
