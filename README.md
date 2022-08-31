@@ -1,11 +1,15 @@
 <h1 align="center">Hi there 👋 I am  Anmol Verma  <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/happy.gif" width="30"/></h1>
-
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/AnmolVerma404/count.svg" />
+</p>
 
 ## **About Me:**
- Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 National Finalist || Executive and Technical team member @Codechef VITB Chapter
+
+Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 National Finalist || Executive and Technical team member @Codechef VITB Chapter
 
 ## **TechStack:**
+
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/html.webp"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/css.webp"></code>
@@ -28,8 +32,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/web3.png"></code>
 </p>
 
-
 ## **Github Streak:**
+
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=AnmolVerma404&line_height=40&theme=dark">
 </p>
@@ -51,6 +55,7 @@
 ---
 
  <h2 align="center">📫 Reach out to me on</h2>
-  <p align="center">
+<p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/anmol-verma-205182205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
