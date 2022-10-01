@@ -35,7 +35,7 @@ Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 Nation
 ## **Github Streak:**
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=AnmolVerma404&line_height=40&theme=dark">
+  <img src = "https://streak-stats.demolab.com?user=AnmolVerma404&theme=dark">
 </p>
 
 ---
