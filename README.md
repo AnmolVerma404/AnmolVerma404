@@ -6,7 +6,7 @@
 
 ## **About Me:**
 
-Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 National Finalist || Executive and Technical team member @Codechef VITB Chapter
+Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 National Finalist || Executive and Technical team member @Codechef VITB Chapter || Open Source Contribution
 
 ## **TechStack:**
 
