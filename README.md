@@ -46,8 +46,8 @@ Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 Nation
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AnmolVerma404&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolVerma404&count_private=true&line_height=40&theme=dark">
+  ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolVerma404&count_private=true&show_icons=true&theme=vision-friendly-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolVerma404&hide=html,css&theme=vision-friendly-dark)
 
 </p>
 <p align = "center">
@@ -62,4 +62,3 @@ Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 Nation
 <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/anmol-verma-205182205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
