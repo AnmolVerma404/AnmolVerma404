@@ -46,7 +46,7 @@ Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 Nation
 
 <p align="center">
   
-  ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolVerma404&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=48)
+  ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnmolVerma404&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolVerma404&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
 
 </p>
