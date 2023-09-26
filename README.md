@@ -6,34 +6,34 @@
 
 ## **About Me:**
 
-Full-Stack Web Developer || Problem Solving || Smart India Hackathon 2022 National Finalist || Executive and Technical team member @Codechef VITB Chapter || Open Source Contribution
+Full-Stack Web Developer🔸Problem Solving🔸SIH'22 National Finalist🔸DevOps🔸System Design🔸Open Source Contribution🔸Upcoming Web Engineer [@rtCamp](https://rtcamp.com/)
 
 ## **TechStack:**
 
 <p align="center">
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/html.webp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/css.webp"></code>
-<code> <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/js.webp" height="40"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/react.webp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/mysql.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/cpp.svg"></code>
-<code><img height="40" src="./svg/docker.svg"></code>
-<code><img height="40" src="./svg/kubernetes.svg"></code>
-<code><img height="40" src="./svg/jira.svg"></code>
-<code><img height="40" src="./svg/typeorm.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/html.webp" alt="html"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/css.webp" alt="css"></code>
+<code> <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/js.webp" height="40" alt="js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/react.webp" alt="react"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/mysql.svg" alt="mysql"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/cpp.svg"  alt="cpp/c++"></code>
+<code><img height="40" src="./svg/docker.svg" alt="docker"></code>
+<code><img height="40" src="./svg/kubernetes.svg"  alt="kubernetes/k8s"></code>
+<code><img height="40" src="./svg/jira.svg" alt="jira"></code>
+<code><img height="40" src="./svg/typeorm.svg" alt="typeorm"></code>
 <br>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/c.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/git.webp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/github.webp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/nodejs.webp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/bootstrap.webp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/ganache.svg"></code>
-<code><img height="37" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/solidity.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/ethersjs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/hardhat.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/truffle.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/web3.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/c.svg"  alt="c"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/java.svg" alt="java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/git.webp" alt="git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/github.webp" alt="github"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/nodejs.webp" alt="nodejs"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/bootstrap.webp" alt="bootstrap"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/ganache.svg"  alt="ganache"></code>
+<code><img height="37" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/solidity.png" alt="solidity"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/ethersjs.png" alt="ethersjs"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/hardhat.png" alt="hardhat"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/truffle.png" alt="truffle"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/web3.png" alt="web3"></code>
 </p>
 
 ## **Github Streak:**
