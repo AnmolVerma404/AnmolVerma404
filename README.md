@@ -21,13 +21,14 @@ Full-Stack Web Developer🔸Problem Solving🔸SIH'22 National Finalist🔸DevOp
 <code><img height="40" src="./svg/kubernetes.svg"  alt="kubernetes/k8s"></code>
 <code><img height="40" src="./svg/jira.svg" alt="jira"></code>
 <code><img height="40" src="./svg/typeorm.svg" alt="typeorm"></code>
+<code><img height="40" src="./svg/php.svg" alt="typeorm"></code>
 <br>
+<code><img height="40" src="./svg/wordpress.svg" alt="typeorm"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/c.svg"  alt="c"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/java.svg" alt="java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/git.webp" alt="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/github.webp" alt="github"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/nodejs.webp" alt="nodejs"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/bootstrap.webp" alt="bootstrap"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/ganache.svg"  alt="ganache"></code>
 <code><img height="37" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/solidity.png" alt="solidity"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/ethersjs.png" alt="ethersjs"></code>
