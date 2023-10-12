@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I am  Anmol Verma  <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/happy.gif" width="30"/></h1>
+<h1 align="center">Hi there 👋 I am  Anmol Verma   <img src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/happy.gif" width="30"/></h1>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/AnmolVerma404/count.svg" />
