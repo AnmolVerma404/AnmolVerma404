@@ -37,12 +37,6 @@ Full-Stack Web Developer🔸Problem Solving🔸SIH'22 National Finalist🔸DevOp
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/image/web3.png" alt="web3"></code>
 </p>
 
-## **Github Streak:**
-
-<p align = "center">
-  <img src = "https://streak-stats.demolab.com?user=AnmolVerma404&theme=dark">
-</p>
-
 ---
 
 ## **Github Stats:**
