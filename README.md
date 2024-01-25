@@ -6,7 +6,7 @@
 
 ## **About Me:**
 
-Full-Stack Web Developer🔸Problem Solving🔸SIH'22 National Finalist🔸DevOps🔸System Design🔸Open Source Contribution🔸Web Engineer Trainee [@rtCamp](https://rtcamp.com/)
+Full-Stack Web Developer🔸Problem Solving🔸SIH'22 National Finalist🔸DevOps🔸System Design🔸Open Source Contribution🔸Software Engineer Trainee [@rtCamp](https://rtcamp.com/)
 
 ## **TechStack:**
 
